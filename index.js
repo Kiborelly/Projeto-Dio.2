@@ -32,3 +32,4 @@ else if(finalResult > 100){
 else{classeHeroi = "Insira apenas números"}
 
 console.log(`O Herói tem de saldo de ${finalResult} vitorias e está no nível de ${classeHeroi}`)
+
